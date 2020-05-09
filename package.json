@@ -1,6 +1,6 @@
 {
   "name": "@superchao/webpack-sdk",
-  "version": "1.1.9",
+  "version": "1.2.0",
   "description": "webpack study",
   "main": "index.js",
   "scripts": {
@@ -42,7 +42,16 @@
     "vue-template-compiler": "^2.5.16",
     "webpack": "^4.8.1",
     "webpack-cli": "^3.1.2",
-    "webpack-dev-server": "^3.1.4"
+    "webpack-dev-server": "^3.1.4",
+    "axios": "^0.19.2",
+    "element-ui": "^2.13.1",
+    "vue": "^2.6.11",
+    "vue-i18n": "^8.17.4",
+    "vue-loader": "^15.9.2",
+    "vue-router": "^3.1.6",
+    "vuex": "^3.3.0",
+    "eslint-loader": "^2.1.1",
+    "eslint": "^4.19.1"
   },
   "files": [
     "*.js"

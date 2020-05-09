@@ -48,7 +48,6 @@ module.exports = {
             comments: false // 删除注释
           },
           compress: {
-            warnings: false,
             drop_debugger: true, // 删除debugger
             drop_console: true // 删除console
           }
