@@ -1,0 +1,51 @@
+{
+  "name": "@superchao/webpack-sdk",
+  "version": "1.1.8",
+  "description": "webpack study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "vue"
+  ],
+  "author": "jianchaow",
+  "license": "ISC",
+  "dependencies": {
+    "add-asset-html-webpack-plugin": "^3.1.3",
+    "autoprefixer": "^9.4.3",
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^10.0.1",
+    "babel-loader": "^7.1.4",
+    "babel-plugin-syntax-dynamic-import": "^6.18.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-3": "^6.24.1",
+    "cross-env": "^5.2.0",
+    "css-loader": "^0.28.11",
+    "fast-sass-loader": "^1.4.7",
+    "file-loader": "^1.1.11",
+    "happypack": "^5.0.0",
+    "html-loader": "^0.5.5",
+    "html-webpack-plugin": "^3.2.0",
+    "mini-css-extract-plugin": "^0.5.0",
+    "node-sass": "^4.9.0",
+    "postcss-loader": "^3.0.0",
+    "sass-loader": "^7.0.1",
+    "scss-loader": "0.0.1",
+    "style-loader": "^0.21.0",
+    "uglifyjs-webpack-plugin": "^2.0.1",
+    "url-loader": "^1.0.1",
+    "vue-html-loader": "^1.2.4",
+    "vue-style-loader": "^4.1.0",
+    "vue-template-compiler": "^2.5.16",
+    "webpack": "^4.8.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.4"
+  },
+  "files": [
+    "*.js"
+  ],
+  "homepage": "https://github.com/jianchaoWang4515/webpack-sdk"
+}
