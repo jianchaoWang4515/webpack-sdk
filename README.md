@@ -98,3 +98,6 @@ if (model === 'pro') result = '我是生产环境';
 5. npm run build:dll (只需执行一次, 之后只需要npm run build就可以，除非不经常修改的第三方包更改才需重新执行)
 6. npm start （启动服务）
 7. npm run build （打包）
+
+## Links
+- [可参考super-cli脚手架](https://github.com/jianchaoWang4515/super-cli)

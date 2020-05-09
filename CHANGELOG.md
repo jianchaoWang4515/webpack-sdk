@@ -1,3 +1,7 @@
+## 1.1.9 (2020-05-09)
+
+- README.md 增加super-cli脚手架连接
+
 ## 1.1.8 (2020-05-09)
 
 - 增加package.keywords package.homepage package.files
